@@ -5,4 +5,4 @@ Networkx
 Langchain_astradb
 Langchain_openai
 Matplotlib
-
+Boto3
